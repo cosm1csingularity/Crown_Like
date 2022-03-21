@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707400674879",
+    "project_id": "crown-like",
+    "storage_bucket": "crown-like.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707400674879:android:fb46aba59095f4f2d3d28a",
+        "android_client_info": {
+          "package_name": "com.playagames.shakesfidge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707400674879-5vl69mrcc4dt3h042pet242cbagiceef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyaGlVucHy4aZorN3w0JiaXwQEI5i9KNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707400674879-5vl69mrcc4dt3h042pet242cbagiceef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
